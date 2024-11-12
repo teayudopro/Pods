@@ -1,0 +1,6 @@
+framework module PaymentHelper {
+  umbrella header "PaymentHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

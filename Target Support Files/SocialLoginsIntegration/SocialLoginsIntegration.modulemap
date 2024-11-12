@@ -1,0 +1,6 @@
+framework module SocialLoginsIntegration {
+  umbrella header "SocialLoginsIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
